@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{boucouvalas2015integrating}
+Anthony~C Boucouvalas, Constantine~J Aivalis, and Kleanthis Gatziolis.
+\newblock Integrating retail and e-commerce using web analytics and intelligent
+  sensors.
+\newblock In {\em International Conference on E-Business and
+  Telecommunications}, pages 3--35. Springer, 2015.
+
+\bibitem{deyle2015global}
+Ernie Deyle.
+\newblock The global retail theft barometer, 2015.
+
+\bibitem{ellis2002performance}
+Tim Ellis.
+\newblock Performance metrics and methods for tracking in surveillance.
+\newblock In {\em Proceedings of the 3rd IEEE International Workshop on
+  Performance Evaluation of Tracking and Surveillance (PETS’02)}, pages
+  26--31, 2002.
+
+\bibitem{gajjar2017human}
+Vandit Gajjar, Ayesha Gurnani, and Yash Khandhediya.
+\newblock Human detection and tracking for video surveillance: A cognitive
+  science approach.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 2805--2809, 2017.
+
+\bibitem{haritaoglu2001detection}
+Ismail Haritaoglu and Myron Flickner.
+\newblock Detection and tracking of shopping groups in stores.
+\newblock In {\em Proceedings of the 2001 IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition. CVPR 2001}, volume~1, pages I--I.
+  IEEE, 2001.
+
+\bibitem{karim2018customer}
+Nabil~Tahmidul Karim, Sanjana Jain, Jednipat Moonrinta, Matthew~N Dailey, and
+  Mongkol Ekpanyapong.
+\newblock Customer and target individual face analysis for retail analytics.
+\newblock In {\em 2018 International Workshop on Advanced Image Technology
+  (IWAIT)}, pages 1--4. IEEE, 2018.
+
+\bibitem{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock {\em nature}, 521(7553):436, 2015.
+
+\bibitem{leykin2007detecting}
+Alex Leykin and Mihran Tuceryan.
+\newblock Detecting shopper groups in video sequences.
+\newblock In {\em 2007 IEEE Conference on Advanced Video and Signal Based
+  Surveillance}, pages 417--422. IEEE, 2007.
+
+\bibitem{mcculloch1943logical}
+Warren~S McCulloch and Walter Pitts.
+\newblock A logical calculus of the ideas immanent in nervous activity.
+\newblock {\em The bulletin of mathematical biophysics}, 5(4):115--133, 1943.
+
+\bibitem{nielsen2018neural}
+Michael Nielsen.
+\newblock Neural networks and deep learning.[online]
+  neuralnetworksanddeeplearning. com, 2018.
+
+\bibitem{provost2013data}
+Foster Provost and Tom Fawcett.
+\newblock {\em Data Science for Business: What you need to know about data
+  mining and data-analytic thinking}.
+\newblock " O'Reilly Media, Inc.", 2013.
+
+\bibitem{redmon2018yolov3}
+Joseph Redmon and Ali Farhadi.
+\newblock Yolov3: An incremental improvement.
+\newblock {\em arXiv preprint arXiv:1804.02767}, 2018.
+
+\bibitem{rojas2013neural}
+Ra{\'u}l Rojas.
+\newblock {\em Neural networks: a systematic introduction}.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem{senior2007video}
+Andrew~W Senior, L~Brown, Arun Hampapur, C-F Shu, Yun Zhai, Rog{\'e}rio~Schmidt
+  Feris, Y-L Tian, Sergio Borger, and C~Carlson.
+\newblock Video analytics for retail.
+\newblock In {\em 2007 IEEE Conference on Advanced Video and Signal Based
+  Surveillance}, pages 423--428. IEEE, 2007.
+
+\bibitem{yaeli2014understanding}
+Avi Yaeli, Peter Bak, Guy Feigenblat, Sima Nadler, Haggai Roitman, Gilad
+  Saadoun, Harold~J Ship, Doron Cohen, Omri Fuchs, Shila Ofek-Koifman, et~al.
+\newblock Understanding customer behavior using indoor location analysis and
+  visualization.
+\newblock {\em IBM Journal of Research and Development}, 58(5/6):3--1, 2014.
+
+\end{thebibliography}
