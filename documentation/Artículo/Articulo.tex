@@ -107,8 +107,28 @@ Debido a que se está trabajando con videos, se ha realizado un preprocesamiento
 \item Dividir el video en frames y etiquetarlos.
 \end{itemize}
 
-Debido a que la detección de personas es un problema conocido se optó por un modelo de YOLO v3 (Darknet) preentrenado con el dataset PASCAL que inicialmente detectaba 40 clases entre las cuales se encontraba la clase Persona, se realizó Transfer Learning con el dataset Y mejorando el accuracy al detectar solo una clase.
+El desarrollo de la solución se divide en 2 partes que se describen a continuación:
+\subsection{Detección de Clientes}
+Debido a que la detección de personas es un problema conocido se optó por un modelo de YOLOv3 (Darknet) preentrenado con el dataset COCO.
 
+Luego de realizar el preprocesamiento y de tener los frames separados, con el modelo YOLOv3 se ha realizado la detección de personas y se ha guardadado la posición en cada frame. A continuación se muestran el recorrido tomado por el cliente mediantes puntos rojos.
+\begin{figure}[hbtp]
+\centering
+\includegraphics[width=8cm]{Figuras/recorrido.png}
+\caption{Recorrido del cliente en la zona de bebidas.}
+\label{fig:yolo}
+\end{figure}
+
+Como se aprecia en la figura anterior existe una mayor concentración de puntos en la parte izquierda de la imagen, lo cual indica que la persona ha permanecido una mayor cantidad de tiempo en dicha zona. A continuación se aprecia un heatmap que indica la zona de consumo donde el cliente permaneció.
+
+\begin{figure}[hbtp]
+\centering
+\includegraphics[width=8cm]{Figuras/heatmap.png}
+\caption{Heatmap the zonas de consumo dentro de la tienda.}
+\label{fig:yolo}
+\end{figure}
+
+\subsection{Pose Estimation}
 
 
 \section{Experimentación y Resultados}
