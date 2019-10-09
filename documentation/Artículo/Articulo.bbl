@@ -1,11 +1,16 @@
 \begin{thebibliography}{10}
 
-\bibitem{boucouvalas2015integrating}
-Anthony~C Boucouvalas, Constantine~J Aivalis, and Kleanthis Gatziolis.
-\newblock Integrating retail and e-commerce using web analytics and intelligent
-  sensors.
-\newblock In {\em International Conference on E-Business and
-  Telecommunications}, pages 3--35. Springer, 2015.
+\bibitem{bulat2016human}
+Adrian Bulat and Georgios Tzimiropoulos.
+\newblock Human pose estimation via convolutional part heatmap regression.
+\newblock In {\em European Conference on Computer Vision}, pages 717--732.
+  Springer, 2016.
+
+\bibitem{carreira2016human}
+Joao Carreira, Pulkit Agrawal, Katerina Fragkiadaki, and Jitendra Malik.
+\newblock Human pose estimation with iterative error feedback.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4733--4742, 2016.
 
 \bibitem{deyle2015global}
 Ernie Deyle.
@@ -50,10 +55,22 @@ Alex Leykin and Mihran Tuceryan.
 \newblock In {\em 2007 IEEE Conference on Advanced Video and Signal Based
   Surveillance}, pages 417--422. IEEE, 2007.
 
+\bibitem{liu2018integral}
+Jingwen Liu, Yanlei Gu, and Shunsuke Kamijo.
+\newblock Integral customer pose estimation using body orientation and
+  visibility mask.
+\newblock {\em Multimedia Tools and Applications}, 77(19):26107--26134, 2018.
+
 \bibitem{mcculloch1943logical}
 Warren~S McCulloch and Walter Pitts.
 \newblock A logical calculus of the ideas immanent in nervous activity.
 \newblock {\em The bulletin of mathematical biophysics}, 5(4):115--133, 1943.
+
+\bibitem{newell2016stacked}
+Alejandro Newell, Kaiyu Yang, and Jia Deng.
+\newblock Stacked hourglass networks for human pose estimation.
+\newblock In {\em European conference on computer vision}, pages 483--499.
+  Springer, 2016.
 
 \bibitem{nielsen2018neural}
 Michael Nielsen.
@@ -71,11 +88,6 @@ Joseph Redmon and Ali Farhadi.
 \newblock Yolov3: An incremental improvement.
 \newblock {\em arXiv preprint arXiv:1804.02767}, 2018.
 
-\bibitem{rojas2013neural}
-Ra{\'u}l Rojas.
-\newblock {\em Neural networks: a systematic introduction}.
-\newblock Springer Science \& Business Media, 2013.
-
 \bibitem{senior2007video}
 Andrew~W Senior, L~Brown, Arun Hampapur, C-F Shu, Yun Zhai, Rog{\'e}rio~Schmidt
   Feris, Y-L Tian, Sergio Borger, and C~Carlson.
@@ -83,11 +95,34 @@ Andrew~W Senior, L~Brown, Arun Hampapur, C-F Shu, Yun Zhai, Rog{\'e}rio~Schmidt
 \newblock In {\em 2007 IEEE Conference on Advanced Video and Signal Based
   Surveillance}, pages 423--428. IEEE, 2007.
 
-\bibitem{yaeli2014understanding}
-Avi Yaeli, Peter Bak, Guy Feigenblat, Sima Nadler, Haggai Roitman, Gilad
-  Saadoun, Harold~J Ship, Doron Cohen, Omri Fuchs, Shila Ofek-Koifman, et~al.
-\newblock Understanding customer behavior using indoor location analysis and
-  visualization.
-\newblock {\em IBM Journal of Research and Development}, 58(5/6):3--1, 2014.
+\bibitem{sun2019deep}
+Ke~Sun, Bin Xiao, Dong Liu, and Jingdong Wang.
+\newblock Deep high-resolution representation learning for human pose
+  estimation.
+\newblock {\em arXiv preprint arXiv:1902.09212}, 2019.
+
+\bibitem{tompson2015efficient}
+Jonathan Tompson, Ross Goroshin, Arjun Jain, Yann LeCun, and Christoph Bregler.
+\newblock Efficient object localization using convolutional networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 648--656, 2015.
+
+\bibitem{toshev2014deeppose}
+Alexander Toshev and Christian Szegedy.
+\newblock Deeppose: Human pose estimation via deep neural networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1653--1660, 2014.
+
+\bibitem{wei2016convolutional}
+Shih-En Wei, Varun Ramakrishna, Takeo Kanade, and Yaser Sheikh.
+\newblock Convolutional pose machines.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4724--4732, 2016.
+
+\bibitem{xiao2018simple}
+Bin Xiao, Haiping Wu, and Yichen Wei.
+\newblock Simple baselines for human pose estimation and tracking.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 466--481, 2018.
 
 \end{thebibliography}
