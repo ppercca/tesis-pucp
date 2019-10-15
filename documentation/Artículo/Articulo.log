@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.5)  8 OCT 2019 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.5)  14 OCT 2019 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -375,13 +375,13 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Figuras/reporte.png, id=1, 506.89375pt x 322.20375pt>
+<Figuras/reporte.png, id=1, 601.24625pt x 403.5075pt>
 File: Figuras/reporte.png Graphic file (type png)
 <use Figuras/reporte.png>
 Package pdftex.def Info: Figuras/reporte.png  used on input line 20.
-(pdftex.def)             Requested size: 506.89252pt x 322.20296pt.
+(pdftex.def)             Requested size: 480.99763pt x 322.80644pt.
 
-Overfull \hbox (262.65053pt too wide) in paragraph at lines 20--21
+Overfull \hbox (236.75565pt too wide) in paragraph at lines 20--21
  [][] 
  []
 
@@ -479,7 +479,7 @@ e/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on Articulo.pdf (6 pages, 6461902 bytes).
+Output written on Articulo.pdf (6 pages, 6630876 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
