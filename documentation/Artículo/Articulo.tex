@@ -149,8 +149,18 @@ Como se aprecia en la figura anterior existe una mayor concentración de puntos 
 \end{figure}
 
 \subsection{Human Pose Estimation}
-Para la estimación de postura humana del cliente se ha tomado el modelo HRNet \cite{sun2019deep} pre entrenado con COCO 2017, el cual es estado del arte en este campo de Pose Estimation, debido a que mantiene las representaciones de alta resolución durante todo el proceso logrando mejores resultados; con la ayuda de este modelo se obtuvo 15 keypoints (articulaciones) por cada cliente en las imagenes.
+Para la estimación de postura humana del cliente se ha tomado el modelo HRNet \cite{sun2019deep} pre entrenado con COCO 2017, el cual es estado del arte en este campo de Pose Estimation, debido a que mantiene las representaciones de alta resolución durante todo el proceso logrando mejores resultados; con la ayuda de este modelo se obtuvo 17 keypoints (articulaciones) por cada cliente en las imagenes.
 Se ha identificado una serie de Posturas Humanas desde diferentes ángulos que indican que el cliente toma un producto de las góndolas de la tienda, el objetivo de esta lista de posturas es comparar las posturas de los clientes obtenidos del video con esta lista de manera que se pueda identificar cuando un cliente toma un producto y guardar la posición $(x, y)$ de este; con esta información se realizará un heatmap indicando las zonas de la tienda donde los clientes se detinen a tomar un producto.
+
+A continuación se observa los keypoints obtenidos de dos clientes al aplicar el model HRNet a las imagenes de la tienda.
+
+\begin{figure}[hbtp]
+\centering
+\includegraphics[width=8cm]{Figuras/pose.png}
+\caption{Pose Estimation de clientes tomando productos de las góndolas.}
+\label{fig:pose}
+\end{figure}
+
 
 \section{Experimentación y Resultados}
 
