@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.5)  20 OCT 2019 19:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.5)  6 AUG 2020 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -259,41 +259,47 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen145
 \Gm@dimlist=\toks24
 )
-(./Articulo.aux
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks25
+\float@box=\box31
+\@float@everytoks=\toks26
+\@floatcapt=\box32
+) (./Articulo.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `Articulo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 -- Lines per column: 56 (approximate, difference = 9.15898pt).
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count113
+\scratchcounter=\count114
 \scratchdimen=\dimen146
-\scratchbox=\box31
-\nofMPsegments=\count114
-\nofMParguments=\count115
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count116
+\scratchbox=\box33
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count117
 \MPscratchDim=\dimen147
-\MPnumerator=\count117
-\makeMPintoPDFobject=\count118
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks28
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -375,13 +381,13 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Figuras/reporte.png, id=1, 591.20876pt x 479.7925pt>
+<Figuras/reporte.png, id=1, 627.34375pt x 531.9875pt>
 File: Figuras/reporte.png Graphic file (type png)
 <use Figuras/reporte.png>
-Package pdftex.def Info: Figuras/reporte.png  used on input line 20.
-(pdftex.def)             Requested size: 472.96764pt x 383.8345pt.
+Package pdftex.def Info: Figuras/reporte.png  used on input line 21.
+(pdftex.def)             Requested size: 501.87567pt x 425.59058pt.
 
-Overfull \hbox (228.72565pt too wide) in paragraph at lines 20--21
+Overfull \hbox (257.63368pt too wide) in paragraph at lines 21--22
  [][] 
  []
 
@@ -389,12 +395,12 @@ Overfull \hbox (228.72565pt too wide) in paragraph at lines 20--21
 
 
  <./Figuras/reporte.png>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -402,7 +408,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Figuras/perceptron.png, id=9, 750.805pt x 365.365pt>
 File: Figuras/perceptron.png Graphic file (type png)
 <use Figuras/perceptron.png>
-Package pdftex.def Info: Figuras/perceptron.png  used on input line 53.
+Package pdftex.def Info: Figuras/perceptron.png  used on input line 54.
 (pdftex.def)             Requested size: 227.62204pt x 110.76437pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -413,42 +419,194 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Figuras/deeplearning.png, id=16, 679.53876pt x 299.1175pt>
 File: Figuras/deeplearning.png Graphic file (type png)
 <use Figuras/deeplearning.png>
-Package pdftex.def Info: Figuras/deeplearning.png  used on input line 64.
+Package pdftex.def Info: Figuras/deeplearning.png  used on input line 65.
 (pdftex.def)             Requested size: 227.62204pt x 100.19243pt.
 <Figuras/cnn.png, id=17, 1005.7575pt x 274.02374pt>
 File: Figuras/cnn.png Graphic file (type png)
 <use Figuras/cnn.png>
-Package pdftex.def Info: Figuras/cnn.png  used on input line 75.
+Package pdftex.def Info: Figuras/cnn.png  used on input line 76.
 (pdftex.def)             Requested size: 227.62204pt x 62.01645pt.
 <Figuras/yolo.png, id=18, 733.74126pt x 308.15125pt>
 File: Figuras/yolo.png Graphic file (type png)
 <use Figuras/yolo.png>
-Package pdftex.def Info: Figuras/yolo.png  used on input line 86.
+Package pdftex.def Info: Figuras/yolo.png  used on input line 87.
 (pdftex.def)             Requested size: 227.62204pt x 95.59172pt.
  [3 <./Figuras/perceptron.png> <./Figuras/deeplearning.png> <./Figuras/cnn.png>
 ]
-<Figuras/poseestimation.png, id=30, 705.63625pt x 492.84125pt>
-File: Figuras/poseestimation.png Graphic file (type png)
-<use Figuras/poseestimation.png>
-Package pdftex.def Info: Figuras/poseestimation.png  used on input line 99.
-(pdftex.def)             Requested size: 227.62204pt x 158.9758pt.
- [4 <./Figuras/yolo.png> <./Figuras/poseestimation.png>]
-<Figuras/recorrido.png, id=36, 600.2425pt x 336.25626pt>
-File: Figuras/recorrido.png Graphic file (type png)
-<use Figuras/recorrido.png>
-Package pdftex.def Info: Figuras/recorrido.png  used on input line 137.
-(pdftex.def)             Requested size: 227.62204pt x 127.51189pt.
-<Figuras/heatmap.png, id=37, 1284.8pt x 722.7pt>
-File: Figuras/heatmap.png Graphic file (type png)
-<use Figuras/heatmap.png>
-Package pdftex.def Info: Figuras/heatmap.png  used on input line 146.
-(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
-<Figuras/pose.png, id=38, 397.485pt x 263.98625pt>
+<Figuras/poseestimation.jpeg, id=30, 224.84pt x 225.84375pt>
+File: Figuras/poseestimation.jpeg Graphic file (type jpg)
+<use Figuras/poseestimation.jpeg>
+Package pdftex.def Info: Figuras/poseestimation.jpeg  used on input line 100.
+(pdftex.def)             Requested size: 227.62204pt x 228.6483pt.
+ [4 <./Figuras/yolo.png> <./Figuras/poseestimation.jpeg>]
+<Figuras/yolo_salida.png, id=35, 540.0175pt x 302.12875pt>
+File: Figuras/yolo_salida.png Graphic file (type png)
+<use Figuras/yolo_salida.png>
+Package pdftex.def Info: Figuras/yolo_salida.png  used on input line 130.
+(pdftex.def)             Requested size: 227.62204pt x 127.34961pt.
+<Figuras/pose.png, id=36, 397.485pt x 263.98625pt>
 File: Figuras/pose.png Graphic file (type png)
 <use Figuras/pose.png>
-Package pdftex.def Info: Figuras/pose.png  used on input line 159.
+Package pdftex.def Info: Figuras/pose.png  used on input line 142.
 (pdftex.def)             Requested size: 227.62204pt x 151.17863pt.
- [5 <./Figuras/recorrido.png> <./Figuras/heatmap.png>] (./Articulo.bbl)
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+ []
+
+[5 <./Figuras/yolo_salida.png> <./Figuras/pose.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
+
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 155--158
+\OT1/ptm/m/n/10 se-mi-su-ma de los va-lo-res de las abs-ci-sas de las
+ []
+
+<Figuras/recorrido.png, id=42, 600.2425pt x 336.25626pt>
+File: Figuras/recorrido.png Graphic file (type png)
+<use Figuras/recorrido.png>
+Package pdftex.def Info: Figuras/recorrido.png  used on input line 161.
+(pdftex.def)             Requested size: 227.62204pt x 127.51189pt.
+<../Recursos/video1/video1_yolo_output_heatmap.jpg, id=43, 358.4592pt x 201.633
+3pt>
+File: ../Recursos/video1/video1_yolo_output_heatmap.jpg Graphic file (type jpg)
+
+<use ../Recursos/video1/video1_yolo_output_heatmap.jpg>
+Package pdftex.def Info: ../Recursos/video1/video1_yolo_output_heatmap.jpg  use
+d on input line 170.
+(pdftex.def)             Requested size: 227.62204pt x 128.03879pt.
+<../Recursos/video1/video1_yolo_heatmap.png, id=44, 677.53125pt x 380.42125pt>
+File: ../Recursos/video1/video1_yolo_heatmap.png Graphic file (type png)
+<use ../Recursos/video1/video1_yolo_heatmap.png>
+Package pdftex.def Info: ../Recursos/video1/video1_yolo_heatmap.png  used on in
+put line 179.
+(pdftex.def)             Requested size: 227.62204pt x 127.80324pt.
+
+Underfull \hbox (badness 1460) in paragraph at lines 184--187
+\OT1/ptm/m/n/10 se pue-da vi-sua-li-zar el cua-dro que con-tie-ne a la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
+
+ []
+
+<../Recursos/video3/frame_2_0_result.jpg, id=45, 1284.8pt x 722.7pt>
+File: ../Recursos/video3/frame_2_0_result.jpg Graphic file (type jpg)
+<use ../Recursos/video3/frame_2_0_result.jpg>
+Package pdftex.def Info: ../Recursos/video3/frame_2_0_result.jpg  used on input
+ line 190.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+<../Recursos/video3/frame_2_1_result.jpg, id=46, 1284.8pt x 722.7pt>
+File: ../Recursos/video3/frame_2_1_result.jpg Graphic file (type jpg)
+<use ../Recursos/video3/frame_2_1_result.jpg>
+Package pdftex.def Info: ../Recursos/video3/frame_2_1_result.jpg  used on input
+ line 197.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
+
+ []
+
+[6 <./Figuras/recorrido.png> <../Recursos/video1/video1_yolo_output_heatmap.jpg
+> <../Recursos/video1/video1_yolo_heatmap.png> <../Recursos/video3/frame_2_0_re
+sult.jpg>]
+<Figuras/keypoints.png, id=52, 1152.305pt x 644.4075pt>
+File: Figuras/keypoints.png Graphic file (type png)
+<use Figuras/keypoints.png>
+Package pdftex.def Info: Figuras/keypoints.png  used on input line 208.
+(pdftex.def)             Requested size: 227.62204pt x 127.28629pt.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 215
+.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 215
+.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 215
+.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 215
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--218
+
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 213--218
+\OT1/ptm/m/n/10 Luego de es-te ta-rea se ha pro-ce-di-do a guar-dar
+ []
+
+<../Recursos/video1/video1_hrnet_output_heatmap.jpg, id=53, 358.4592pt x 201.63
+33pt>
+File: ../Recursos/video1/video1_hrnet_output_heatmap.jpg Graphic file (type jpg
+)
+<use ../Recursos/video1/video1_hrnet_output_heatmap.jpg>
+Package pdftex.def Info: ../Recursos/video1/video1_hrnet_output_heatmap.jpg  us
+ed on input line 221.
+(pdftex.def)             Requested size: 227.62204pt x 128.03879pt.
+<../Recursos/video1/video1_hrnet_heatmap.png, id=54, 677.53125pt x 380.42125pt>
+
+File: ../Recursos/video1/video1_hrnet_heatmap.png Graphic file (type png)
+<use ../Recursos/video1/video1_hrnet_heatmap.png>
+Package pdftex.def Info: ../Recursos/video1/video1_hrnet_heatmap.png  used on i
+nput line 230.
+(pdftex.def)             Requested size: 227.62204pt x 127.80324pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
+
+ []
+
+[7 <../Recursos/video3/frame_2_1_result.jpg> <./Figuras/keypoints.png> <../Recu
+rsos/video1/video1_hrnet_output_heatmap.jpg> <../Recursos/video1/video1_hrnet_h
+eatmap.png>]
+<Figuras/appweb.png, id=62, 1463.4675pt x 967.615pt>
+File: Figuras/appweb.png Graphic file (type png)
+<use Figuras/appweb.png>
+Package pdftex.def Info: Figuras/appweb.png  used on input line 242.
+(pdftex.def)             Requested size: 227.62204pt x 150.49553pt.
+<../Recursos/video4/video4_yolo_heatmap.png, id=63, 676.5275pt x 379.4175pt>
+File: ../Recursos/video4/video4_yolo_heatmap.png Graphic file (type png)
+<use ../Recursos/video4/video4_yolo_heatmap.png>
+Package pdftex.def Info: ../Recursos/video4/video4_yolo_heatmap.png  used on in
+put line 256.
+(pdftex.def)             Requested size: 227.62204pt x 127.65709pt.
+<../Recursos/video4/video4_hrnet_heatmap.png, id=64, 675.52374pt x 380.42125pt>
+
+File: ../Recursos/video4/video4_hrnet_heatmap.png Graphic file (type png)
+<use ../Recursos/video4/video4_hrnet_heatmap.png>
+Package pdftex.def Info: ../Recursos/video4/video4_hrnet_heatmap.png  used on i
+nput line 263.
+(pdftex.def)             Requested size: 227.62204pt x 128.18636pt.
+
+
+LaTeX Warning: Citation `fig:video4_yolo_heatmap' on page 8 undefined on input 
+line 269.
+
+
+LaTeX Warning: Citation `fig:video4_hrnet_heatmap' on page 8 undefined on input
+ line 269.
+
+(./Articulo.bbl [8 <./Figuras/appweb.png> <../Recursos/video4/video4_yolo_heatm
+ap.png> <../Recursos/video4/video4_hrnet_heatmap.png>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -460,31 +618,38 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6 <./Figuras/pose.png>] (./Articulo.aux
+[9
+
+] (./Articulo.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-) ) 
+)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4674 strings out of 492616
- 69304 string characters out of 6129482
- 164202 words of memory out of 5000000
- 8518 multiletter control sequences out of 15000+600000
- 37998 words of font info for 73 fonts, out of 8000000 for 9000
+ 4800 strings out of 492616
+ 72409 string characters out of 6129482
+ 167658 words of memory out of 5000000
+ 8624 multiletter control sequences out of 15000+600000
+ 39105 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,31p,2004b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/
-texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/tex
-mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on Articulo.pdf (6 pages, 8079060 bytes).
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-d
+ist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on Articulo.pdf (9 pages, 21571344 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
